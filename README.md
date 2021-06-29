@@ -1,5 +1,4 @@
-# Olá, meu nome é Vitor Sabino :wave:
-Graduado em Engenharia de Computação. Desenvolvedor Front-End. HTML, CSS e JS.
+<h1 align ="center"> Olá, meu nome é Vitor Sabino :wave:</h1>
 
 <h2 align="center"> 👨‍💻 Quem sou eu?</h2>
 <p align="center">
