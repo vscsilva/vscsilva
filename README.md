@@ -16,4 +16,5 @@
   <img src="https://img.shields.io/badge/JS%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 <hr>
 <br>
+<div align="center">
  <img src="https://komarev.com/ghpvc/?username=vscsilva" alt="https://github.com/vscsilva" />
