@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vscsilva&label=Profile%20views&color=0e75b6&style=flat" alt="vscsilva" /> </p>
 
-- 🌱 Estou atualmente aprendendo **HTML, CSS e JS.**
+- 🌱 Estou atualmente aprendendo **HTML, CSS e JS. Futuro Desenvolvedor Full-Stack**
 
 - 🤝 Estou procurando ajuda com [Minha Primeira Distro](https://github.com/vscsilva/minha-primeira-distro)
 
