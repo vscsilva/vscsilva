@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Vitor Cardoso</h1>
-<h3 align="center">Desenvolvedor Front-End. Estudando HTML, CSS e JS. Futuro desenvolvedor Full-Stack.</h3>
+<h3 align="center">Futuro Desenvolvedor Full-Stack. Estudando atualmente HTML, CSS e JS.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vscsilva&label=Profile%20views&color=0e75b6&style=flat" alt="vscsilva" /> </p>
 
