@@ -3,9 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vscsilva&label=Profile%20views&color=0e75b6&style=flat" alt="vscsilva" /> </p>
 
-- 🔭 I’m currently working on **Yarloo's website**
-
-- 🌱 I’m currently learning **React and NodeJS**
+- 🔭 I’m currently not working 
 
 - 📫 How to reach me **vitorcsilva180396@gmail.com**
 
