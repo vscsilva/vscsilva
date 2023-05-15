@@ -18,4 +18,4 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vscsilva&show_icons=true&locale=en&layout=compact" alt="vscsilva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vscsilva&show_icons=true&locale=en" alt="vscsilva" /></p>
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vscsilva&count_private=true&show_icons=true)
